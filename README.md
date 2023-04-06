@@ -1,8 +1,8 @@
 ### Olá, eu sou o João Pedro
 
 
-- 🔭 Estou trabalhando atualmente com Java.
-- 🌱 Atualmente estudando Java e Springbatch
+- 🔭 Estou trabalhando atualmente com Front-End e desenvolvimento em Python.
+- 🌱 Atualmente estudando Python
 - 😄 Ele/Dele
 
 <div>
