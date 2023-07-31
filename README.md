@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando atualmente com Front-End e desenvolvimento em Python.
-- 🌱 Atualmente estudando Python
+- 🌱 Atualmente estudando Desenvolvimento Front
 - 😄 Ele/Dele
 
 <div>
