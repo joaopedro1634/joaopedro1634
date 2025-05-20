@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Pedro
 
 
-- 🔭 Estou trabalhando atualmente com Front-End e desenvolvimento em Python.
+- 🔭 Estou trabalhando atualmente como Analista de Redes JR ELO Cartões
 - 🌱 Atualmente estudando Desenvolvimento Front
 - 😄 Ele/Dele
 
